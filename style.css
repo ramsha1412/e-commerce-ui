@@ -52,7 +52,7 @@ h1{
 .imgs{
   display: flex;
   width: max-content;
-  animation: scroll-left 6s linear infinite;
+  animation: scroll-left 10s linear infinite;
   flex-wrap: nowrap;
 }
 .imgs-wrapper:hover .imgs{
